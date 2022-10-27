@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Bu git bash ile elave etdiyimdi
+=======
+Bu direk elave edeceyimdi
+>>>>>>> cbc95ad155d18b8bdee8a79a492d695078fd1923
